@@ -1,10 +1,10 @@
 {
-  "name": "nihl-proxy",
+  "name": "nihl-advisor",
   "version": "1.0.0",
-  "description": "CORS proxy for Neota NIHL API",
-  "main": "nihl_proxy_2.js",
+  "description": "NIHL Evidence Advisor — chat UI + Neota proxy + Anthropic API",
+  "main": "server.js",
   "scripts": {
-    "start": "node nihl_proxy_2.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18"
