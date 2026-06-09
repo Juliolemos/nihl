@@ -1,0 +1,12 @@
+{
+  "name": "nihl-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for Neota NIHL API",
+  "main": "nihl_proxy_2.js",
+  "scripts": {
+    "start": "node nihl_proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
