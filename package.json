@@ -4,7 +4,7 @@
   "description": "CORS proxy for Neota NIHL API",
   "main": "nihl_proxy_2.js",
   "scripts": {
-    "start": "node nihl_proxy.js"
+    "start": "node nihl_proxy_2.js"
   },
   "engines": {
     "node": ">=18"
