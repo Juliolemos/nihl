@@ -1,0 +1,18 @@
+{
+  "name": "nihl-mcp-server",
+  "version": "1.0.0",
+  "description": "NIHL rules engine exposed as a remote MCP server",
+  "type": "module",
+  "main": "mcp-server.js",
+  "scripts": {
+    "start": "node mcp-server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "express": "^4.21.0",
+    "zod": "^3.24.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
